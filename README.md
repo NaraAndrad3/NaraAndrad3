@@ -4,7 +4,7 @@
 My name is Nara, I'm study Information Systems in Federal University of Piaui. 
 
 #### About me:
-- 📈 Data Scientist.
+- 📈 Data Analyst.
 - 👩🏽‍💻 Software developer (Backend)
 - 🔭 I'm currently studying Information Systems.
 - 📈 I am part of the PAAD Lab (Advanced Data Analysis Research Laboratory).
