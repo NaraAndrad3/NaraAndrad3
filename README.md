@@ -1,29 +1,25 @@
-### Hey Dev! 
-### Welcome to my github profile, it's a pleasure to have you here!!
+### Olá! Eu sou a Nara 👋
+**Mestranda em Ciência da Computação (UFPI) | Backend Developer | Data Analyst**
 
-My name is Nara, I'm study Information Systems in Federal University of Piaui. 
+Bem-vindo(a) ao meu perfil! Sou apaixonada por transformar dados complexos em soluções eficientes e construir sistemas escaláveis. Atualmente, foco minha pesquisa e desenvolvimento em sistemas distribuídos e análise avançada de dados.
 
-#### About me:
-- 📈 Data Analyst.
-- 👩🏽‍💻 Software developer (Backend)
-- 🔭 I'm currently studying Information Systems.
-- 📈 I am part of the PAAD Lab (Advanced Data Analysis Research Laboratory).
-- 💡 Learning languages: English and Spanish (and daring to learn Korean, haha).
+#### 🎓 Sobre mim:
+- 🎓 **Bacharel em Sistemas de Informação** (UFPI) e atual **Mestranda em Ciência da Computação**.
+- 🔬 Pesquisadora no **PAAD Lab** (Laboratório de Pesquisa em Análise de Dados Avançada).
+- 👩🏽‍💻 Desenvolvedora Backend com foco em **Node.js, TypeScript e Python**.
+- ⚙️ Entusiasta de **Sistemas Distribuídos**, Arquitetura de Software (DDD) e Engenharia de Dados.
+- 🌎 Idiomas: Português, Inglês e Espanhol (e estudando Coreano nas horas vagas!).
 
-#### Technologies
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" > 
+#### 🚀 Projetos em Destaque:
+- **[Sistemas Distribuídos]** Processamento assíncrono com RabbitMQ e análise de IA em tempo real.
+- **[Backend/Infra]** Implementação de sistemas distribuídos com Sockets TCP/IP e monitoramento com Prometheus/Kubernetes.
+- **[Data Science]** Análise preditiva de sucesso cinematográfico e modelos de ML para saúde.
 
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" >
-
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" >          
-
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" >  
-
-- <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40">
-
-
+#### 🛠 Tecnologias e Ferramentas:
+- **Linguagens:** Python, Node.js, TypeScript, C, Java.
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server.
+- **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, RabbitMQ.
+- **Data Science:** Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
 #### Contacts
 
